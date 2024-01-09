@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git and Github usage
 - 💞️ I’m looking to collaborate on Ansible factory
 - 📫 How to reach me is not very important
-- 😄 Pronouns: Pub or Pueblo or Lolo
+- 😄 Nickname: Pub or Pueblo or Lolo
 - ⚡ Fun fact: I worked for 20 years in "old fashion" IT and I recently discovered Devops
 
 <!---
